@@ -1,3 +1,3 @@
 # datasciencecapstone
 
-a markdown file in this repository.
+A collection of Notebooks for Applied Data Science Capstone course
